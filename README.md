@@ -43,4 +43,4 @@ in [RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749).
 
 3. Run JAR file and in your web browser paste a URL:
 
-          https://localhost:7777
+          http://localhost:7777
