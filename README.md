@@ -5,6 +5,21 @@
 ![OAuth2Google1.java](OAuth2Google1.png "OAuth2Google - Login")
 ![OAuth2Google2.java](OAuth2Google2.png "OAuth2Google - Home")
 
+
+### Tech Stack
+* 🔶 Java 21.0.5 LTS
+* 🔶 Spring Boot 3.4.2
+* 🔶 Apache Maven 3.9.8
+
+### Testing
+* 🔶 JUnit 5.11.4
+* 🔶 AssertJ 3.26.3
+* 🔶 Mockito 5.14.2
+
+### IDE
+* 🔶 IntelliJ IDEA 2024.3.2.1 (Ultimate Edition)
+
+
 #### What is OAuth 2.0?
 
 OAuth (Open Authorization) 2.0 is an open authorization standard. It provides a way for users to log into a web-based
