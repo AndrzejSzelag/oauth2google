@@ -1,6 +1,6 @@
 # OAuth 2.0 Google
 
-### A Spring Boot web-based application configured to use OAuth 2.0 with Google Cloud API.
+### A Spring Boot web-based application configured to use OAuth 2.0 with Google API.
 
 #### What is OAuth 2.0?
 
