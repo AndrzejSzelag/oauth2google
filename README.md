@@ -2,6 +2,8 @@
 
 ### A Spring Boot web-based application configured to use OAuth 2.0 with Google API.
 
+![OAuth2Google.java](OAuth2Google.png "OAuth2Google - login")
+
 #### What is OAuth 2.0?
 
 OAuth (Open Authorization) 2.0 is an open authorization standard. It provides a way for users to log into a web-based
