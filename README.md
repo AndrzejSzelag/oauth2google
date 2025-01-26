@@ -2,7 +2,8 @@
 
 ### A Spring Boot web-based application configured to use OAuth 2.0 with Google API.
 
-![OAuth2Google1.java](OAuth2Google1.png "OAuth2Google - login")
+![OAuth2Google1.java](OAuth2Google1.png "OAuth2Google - Login")
+![OAuth2Google2.java](OAuth2Google2.png "OAuth2Google - Home")
 
 #### What is OAuth 2.0?
 
