@@ -25,7 +25,7 @@
 OAuth (Open Authorization) 2.0 is an open authorization standard. It provides a way for users to log into a web-based
 application (Spring Security OAuth 2.0) by delegating the authentication process to trusted third-party services, such
 as Google and GitHub. The full specification of the OAuth 2.0 protocol can be found
-in [IETF RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749).
+in IETF [RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749).
 
 #### How use OAuth2.0?
 
