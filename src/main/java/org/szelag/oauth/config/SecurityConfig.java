@@ -14,16 +14,14 @@ public class SecurityConfig {
     SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
         http.authorizeHttpRequests(authorize -> authorize
                         .requestMatchers("/").permitAll()
-                        .requestMatchers("/login").permitAll()
                         .anyRequest().authenticated())
                 .oauth2Login(login -> login
                         .loginPage("/login")
-                        .defaultSuccessUrl("/home", true)
-                        .permitAll())
+                        .defaultSuccessUrl("/home", true).permitAll())
                 .logout(logout -> logout
                         .invalidateHttpSession(true)
                         .clearAuthentication(true)
-                        .logoutSuccessUrl("/").permitAll());
+                        .logoutSuccessUrl("/"));
         return http.build();
     }
 }
