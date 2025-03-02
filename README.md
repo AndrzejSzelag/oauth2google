@@ -38,6 +38,6 @@ OAuth (Open Authorization) 2.0, is a framework, specified by the Internet Engine
 
           git clone https://github.com/AndrzejSzelag/oauth2google.git
 
-3. Run JAR file and in your web browser paste a URL:
+3. Run application and in your web browser paste a URL:
 
           http://localhost:7777
