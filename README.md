@@ -32,8 +32,7 @@ OAuth (Open Authorization) 2.0, is a framework, specified by the Internet Engine
    You need:
 
          CLIENT_ID
-         CLIENT_SECRET  
-         REDIRECT_URI
+         CLIENT_SECRET
 
 2. Clone a GitHub Repository to your computer:
 
