@@ -96,6 +96,12 @@
             <artifactId>spring-security-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.sonarsource.sonarqube</groupId>
+            <artifactId>sonar-plugin-api</artifactId>
+            <version>8.9.10.61524</version>
+            <scope>provided</scope>
+        </dependency>
     </dependencies>
 
     <build>
