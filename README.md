@@ -12,6 +12,7 @@
 * 🔶 Apache Maven 3.9.8
 
 ### Testing
+* 🔶SonarQube 8.9.10.61524
 * 🔶 JUnit 5.11.4
 * 🔶 AssertJ 3.26.3
 * 🔶 Mockito 5.14.2
