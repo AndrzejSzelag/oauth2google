@@ -1,4 +1,4 @@
-# OAuth 2.0 Google
+# OAuth 2.0 Google [<img alt="springboot" src="https://img.shields.io/badge/Spring Boot-3.4.2-COLOR.svg?logo=LOGO">](<https://spring.io/projects/spring-boot>) [<img alt="maven" src="https://img.shields.io/badge/Maven-3.9.8-COLOR.svg?logo=LOGO">](https://maven.apache.org/)
 
 ### A Spring Boot web-based application configured to use OAuth 2.0 with Google API.
 
